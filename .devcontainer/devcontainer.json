@@ -1,0 +1,17 @@
+{
+    "name": "Ubuntu with Desktop",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/desktop-vnc:1": {
+            "version": "latest"
+        }
+    }
+}{
+    "name": "Ubuntu with Desktop",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/desktop-vnc:1": {
+            "version": "latest"
+        }
+    }
+}
